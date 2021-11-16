@@ -1,0 +1,6 @@
+model_config:
+  m4c:
+    mmt:
+      hidden_size: 768
+      num_hidden_layers: 4
+      intermediate_size: 3072
