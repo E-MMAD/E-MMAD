@@ -2,7 +2,7 @@
 
 **Video**
 
-<video src="./video_examples/3xi6RrIubEDD4WdjmH5_232759035455_hd_hq.mp4"></video>
+<video src="/video_examples/3xi6RrIubEDD4WdjmH5_232759035455_hd_hq.mp4"></video>
 
 **Title**
 
